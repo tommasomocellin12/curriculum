@@ -2,3 +2,6 @@
 .bg-gainsboro {
 	background-color: gainsboro;
 }
+header img {
+	width: 100%;
+}
