@@ -1,6 +1,10 @@
 /* qui va il mio codice css */
 .bg-gainsboro {
 	background-color: gainsboro;
+	border-width: 20px;
+	border-style: solid;
+	border-color: #FFF5EE;
+}
 }
 header img {
 	width: 100%;
