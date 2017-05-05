@@ -20,19 +20,21 @@ p {
 p {
 	text-align: left;
 }
-.text-align-right {
-	text-align: right;
-	margin-top: 80px;
-}
-.text-align-right1 {
-	text-align: right;
+.text-align {
 	margin-top: 10px;
 }
-.text-align-right2 {
-	text-align: right;
+.text-align-1 {
+	margin-top: 60px;
+}
+.text-align-2 {
+	margin-top: 80px;
+}
+.text-align-3 {
+	margin-top: 20px;
+}
+.text-align-4 {
 	margin-top: 85px;
 }
-.text-align-right3 {
-	text-align: right;
-	margin-top: 25px;
+.text-align-5 {
+	margin-top: 30px;
 }
